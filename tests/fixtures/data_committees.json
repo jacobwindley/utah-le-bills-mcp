@@ -1,0 +1,1263 @@
+{"committees":[
+{"description":"Business and Labor Interim Committee","id":"INTBUS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTBUS","meetings":[
+{"mtgTime":"2026-11-18T13:15:00.000Z","mtgPlace":"120 Senate Building","status":"O"}
+],
+"members":[
+{"id":"BALLAMG","position":"member", "name":"Ballard, M.G."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"HAWKIJ","position":"member", "name":"Hawkins, J."}
+,{"id":"IVORYK","position":"member", "name":"Ivory, K."}
+,{"id":"KYLEJB","position":"member", "name":"Kyle, J."}
+,{"id":"MALOYC","position":"chair", "name":"Maloy, A. Cory"}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"NGUYEH","position":"member", "name":"Nguyen, H."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"SAWYEJ","position":"member", "name":"Sawyer, J."}
+,{"id":"SCHULM","position":"member", "name":"Schultz, M."}
+,{"id":"SHALLD","position":"member", "name":"Shallenberger, D."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"THURSNK","position":"member", "name":"Thurston, N."}
+,{"id":"VICKEEJ","position":"chair", "name":"Vickers, E."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+,{"id":"WHYTESL","position":"member", "name":"Whyte, S."}
+,{"id":"WILCORD","position":"member", "name":"Wilcox, R."}
+]
+}
+,{"description":"Child Welfare Legislative Oversight Panel","id":"SPECWL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPECWL","meetings":[
+],
+"members":[
+{"id":"ACTONCK","position":"member", "name":"Acton, C.K."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"JOHNSJD","position":"chair", "name":"Johnson, J."}
+,{"id":"WATKICF","position":"chair", "name":"Watkins, C."}
+]
+}
+,{"description":"Criminal Justice Appropriations Subcommittee","id":"APPCRI","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPCRI","meetings":[
+],
+"members":[
+{"id":"ACTONCK","position":"member", "name":"Acton, C.K."}
+,{"id":"BALLAMG","position":"vice chair", "name":"Ballard, M.G."}
+,{"id":"BRAMMB","position":"senate chair", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"DUNNIJA","position":"member", "name":"Dunnigan, J."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"HARPEWA","position":"member", "name":"Harper, W."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"LARSOJ","position":"member", "name":"Larson, J."}
+,{"id":"LISONK","position":"member", "name":"Lisonbee, K."}
+,{"id":"MILLGR","position":"member", "name":"Miller, G."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"PETERM","position":"house chair", "name":"Petersen, M."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+]
+}
+,{"description":"Economic and Community Development Appropriations Subcommittee","id":"APPECD","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPECD","meetings":[
+],
+"members":[
+{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"LHANSEN","position":"member", "name":"Hansen, L."}
+,{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"KYLEJB","position":"member", "name":"Kyle, J."}
+,{"id":"MAUGAV","position":"member", "name":"Mauga, V."}
+,{"id":"MUSSECR","position":"senate chair", "name":"Musselman, C.R."}
+,{"id":"OKERLC","position":"member", "name":"Okerlund, C."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"PETERT","position":"vice chair", "name":"Peterson, T."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+,{"id":"WATKICF","position":"house chair", "name":"Watkins, C."}
+]
+}
+,{"description":"Economic Development and Workforce Services Interim Committee","id":"INTEDW","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTEDW","meetings":[
+{"mtgTime":"2026-11-18T8:30:00.000Z","mtgPlace":"120 Senate Building","status":"O"}
+],
+"members":[
+{"id":"CUTLEP","position":"member", "name":"Cutler, P."}
+,{"id":"DUNNIJA","position":"member", "name":"Dunnigan, J."}
+,{"id":"FIEFID","position":"member", "name":"Fiefia, D."}
+,{"id":"FITISJ","position":"member", "name":"Fitisemanu, J."}
+,{"id":"LHANSEN","position":"member", "name":"Hansen, L."}
+,{"id":"HAWKIJ","position":"chair", "name":"Hawkins, J."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"JACKC","position":"member", "name":"Jack, C."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"LARSOJ","position":"member", "name":"Larson, J."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MILLNA","position":"chair", "name":"Millner, A."}
+,{"id":"MOSSCS","position":"member", "name":"Moss, C."}
+,{"id":"SHALLD","position":"member", "name":"Shallenberger, D."}
+,{"id":"SHELLT","position":"member", "name":"Shelley, T."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+,{"id":"VICKEEJ","position":"member", "name":"Vickers, E."}
+]
+}
+,{"description":"Education Interim Committee","id":"INTEDU","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTEDU","meetings":[
+{"mtgTime":"2026-11-18T13:15:00.000Z","mtgPlace":"110 Senate Building","status":"O"}
+],
+"members":[
+{"id":"AUXIET","position":"member", "name":"Auxier, T."}
+,{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"BISHORW","position":"member", "name":"Bishop, R."}
+,{"id":"DEFAYA","position":"member", "name":"Defay, A."}
+,{"id":"ELISOJ","position":"member", "name":"Elison, J."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"JOHNSJD","position":"chair", "name":"Johnson, J."}
+,{"id":"LISONK","position":"member", "name":"Lisonbee, K."}
+,{"id":"MOSSCS","position":"member", "name":"Moss, C."}
+,{"id":"OKERLC","position":"member", "name":"Okerlund, C."}
+,{"id":"PETERK","position":"member", "name":"Peterson, K."}
+,{"id":"PETERVL","position":"member", "name":"Peterson, V."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"THOMJA","position":"member", "name":"Thompson, J."}
+,{"id":"WALTER","position":"chair", "name":"Walter, N."}
+,{"id":"WELTOD","position":"member", "name":"Welton, D."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Elected Officials and Judicial Compensation Commission","id":"SPEEJC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEEJC","meetings":[
+],
+"members":[
+]
+}
+,{"description":"Executive Appropriations Committee","id":"APPEXE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPEXE","meetings":[
+{"mtgTime":"2026-11-17T14:00:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+,{"mtgTime":"2026-12-08T14:00:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"BROOKW","position":"house vice chair", "name":"Brooks, W."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"PETERVL","position":"house chair", "name":"Peterson, V."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SANDASD","position":"senate vice chair", "name":"Sandall, S."}
+,{"id":"SCHULM","position":"member", "name":"Schultz, M."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"STEVEJW","position":"senate chair", "name":"Stevenson, J."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Federal Funds Legislative Oversight Committee - Rural Health Transformation Grant","id":"SPEFFO","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEFFO","meetings":[
+{"mtgTime":"2026-11-17T13:00:00.000Z","mtgPlace":"450 State Capitol","status":"O"}
+],
+"members":[
+{"id":"BROOKW","position":"member", "name":"Brooks, W."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"MONSOL","position":"member", "name":"Monson, L."}
+,{"id":"PETERVL","position":"chair", "name":"Peterson, V."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+,{"id":"VICKEEJ","position":"member", "name":"Vickers, E."}
+,{"id":"WILSOCH","position":"chair", "name":"Wilson, C."}
+]
+}
+,{"description":"Federalism Commission","id":"SPEFED","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEFED","meetings":[
+{"mtgTime":"2026-11-19T11:30:00.000Z","mtgPlace":"110 Senate Building","status":"O"}
+],
+"members":[
+{"id":"ALBRECR","position":"member", "name":"Albrecht, C."}
+,{"id":"BISHORW","position":"member", "name":"Bishop, R."}
+,{"id":"CHRISKJ","position":"member", "name":"Christofferson, K."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"DOMINR","position":"member", "name":"Dominguez, R."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"IVORYK","position":"house chair", "name":"Ivory, K."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"PETERM","position":"member", "name":"Petersen, M."}
+,{"id":"ROBERC","position":"member", "name":"Roberts, C."}
+,{"id":"STRATKJ","position":"senate chair", "name":"Stratton, K."}
+,{"id":"THOMJA","position":"member", "name":"Thompson, J."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"General Government Appropriations Subcommittee","id":"APPGEN","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPGEN","meetings":[
+],
+"members":[
+{"id":"ABBOTN","position":"member", "name":"Abbott, N."}
+,{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"CUTLEP","position":"member", "name":"Cutler, P."}
+,{"id":"DOMINR","position":"member", "name":"Dominguez, R."}
+,{"id":"HAWKIJ","position":"member", "name":"Hawkins, J."}
+,{"id":"LOUBEA","position":"vice chair", "name":"Loubet, A."}
+,{"id":"MALOYC","position":"member", "name":"Maloy, A. Cory"}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SHEPHL","position":"member", "name":"Shepherd, L."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"THURSNK","position":"house chair", "name":"Thurston, N."}
+,{"id":"VICKEEJ","position":"senate chair", "name":"Vickers, E."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+]
+}
+,{"description":"General Oversight Committee","id":"SPEADM","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEADM","meetings":[
+],
+"members":[
+{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MACPHM","position":"member", "name":"MacPherson, M."}
+,{"id":"MCCAYD","position":"chair", "name":"McCay, D."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SHEPHL","position":"member", "name":"Shepherd, L."}
+,{"id":"THURSNK","position":"member", "name":"Thurston, N."}
+,{"id":"WALTER","position":"member", "name":"Walter, N."}
+]
+}
+,{"description":"Government Operations Interim Committee","id":"INTGOC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTGOC","meetings":[
+{"mtgTime":"2026-11-18T13:15:00.000Z","mtgPlace":"210 Senate Building","status":"O"}
+],
+"members":[
+{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CUTLEP","position":"member", "name":"Cutler, P."}
+,{"id":"FIEFID","position":"member", "name":"Fiefia, D."}
+,{"id":"LARSOJ","position":"member", "name":"Larson, J."}
+,{"id":"LOUBEA","position":"member", "name":"Loubet, A."}
+,{"id":"MACPHM","position":"member", "name":"MacPherson, M."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MILLGR","position":"member", "name":"Miller, G."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PETERM","position":"member", "name":"Petersen, M."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"ROBERC","position":"chair", "name":"Roberts, C."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SHEPHL","position":"member", "name":"Shepherd, L."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"STRONMA","position":"member", "name":"Strong, M.A."}
+,{"id":"WINTER","position":"chair", "name":"Winterton, R."}
+]
+}
+,{"description":"Health and Human Services Interim Committee","id":"INTHHS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTHHS","meetings":[
+{"mtgTime":"2026-11-18T13:15:00.000Z","mtgPlace":"30 House Building","status":"O"}
+],
+"members":[
+{"id":"ABBOTN","position":"member", "name":"Abbott, N."}
+,{"id":"ACTONCK","position":"member", "name":"Acton, C.K."}
+,{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"BARLOSE","position":"member", "name":"Barlow, S."}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"CHEVRK","position":"member", "name":"Chevrier, K."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ELIASS","position":"member", "name":"Eliason, S."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FITISJ","position":"member", "name":"Fitisemanu, J."}
+,{"id":"GRICIS","position":"member", "name":"Gricius, S."}
+,{"id":"GROVEK","position":"chair", "name":"Grover, K."}
+,{"id":"HALLK","position":"chair", "name":"Hall, K."}
+,{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"MONSOL","position":"member", "name":"Monson, L."}
+,{"id":"PACEG","position":"member", "name":"Pace, G."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+,{"id":"WARDR","position":"member", "name":"Ward, R."}
+]
+}
+,{"description":"Higher Education Appropriations Subcommittee","id":"APPHED","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPHED","meetings":[
+],
+"members":[
+{"id":"DEFAYA","position":"member", "name":"Defay, A."}
+,{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"HALLK","position":"member", "name":"Hall, K."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"KOFORJ","position":"vice chair", "name":"Koford, J."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MILLNA","position":"senate chair", "name":"Millner, A."}
+,{"id":"PETERK","position":"house chair", "name":"Peterson, K."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"STRONMA","position":"member", "name":"Strong, M.A."}
+,{"id":"VICKEEJ","position":"member", "name":"Vickers, E."}
+,{"id":"WALTER","position":"member", "name":"Walter, N."}
+,{"id":"WILCORD","position":"member", "name":"Wilcox, R."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"House Business, Labor, and Commerce Committee","id":"HSTBUS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTBUS","meetings":[
+],
+"members":[
+{"id":"BALLAMG","position":"member", "name":"Ballard, M.G."}
+,{"id":"DUNNIJA","position":"member", "name":"Dunnigan, J."}
+,{"id":"IVORYK","position":"member", "name":"Ivory, K."}
+,{"id":"KYLEJB","position":"vice chair", "name":"Kyle, J."}
+,{"id":"MALOYC","position":"chair", "name":"Maloy, A. Cory"}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"NGUYEH","position":"member", "name":"Nguyen, H."}
+,{"id":"PETERT","position":"member", "name":"Peterson, T."}
+,{"id":"ROBERC","position":"member", "name":"Roberts, C."}
+,{"id":"SAWYEJ","position":"member", "name":"Sawyer, J."}
+,{"id":"SCHULM","position":"member", "name":"Schultz, M."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+,{"id":"THURSNK","position":"member", "name":"Thurston, N."}
+,{"id":"WHYTESL","position":"member", "name":"Whyte, S."}
+,{"id":"WILCORD","position":"member", "name":"Wilcox, R."}
+]
+}
+,{"description":"House Economic Development and Workforce Services Committee","id":"HSTEDW","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTEDW","meetings":[
+],
+"members":[
+{"id":"CUTLEP","position":"vice chair", "name":"Cutler, P."}
+,{"id":"FIEFID","position":"member", "name":"Fiefia, D."}
+,{"id":"LHANSEN","position":"member", "name":"Hansen, L."}
+,{"id":"HAWKIJ","position":"chair", "name":"Hawkins, J."}
+,{"id":"JACKC","position":"member", "name":"Jack, C."}
+,{"id":"MAUGAV","position":"member", "name":"Mauga, V."}
+,{"id":"MILLGR","position":"member", "name":"Miller, G."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"SHALLD","position":"member", "name":"Shallenberger, D."}
+,{"id":"SHELLT","position":"member", "name":"Shelley, T."}
+]
+}
+,{"description":"House Education Committee","id":"HSTEDU","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTEDU","meetings":[
+],
+"members":[
+{"id":"AUXIET","position":"member", "name":"Auxier, T."}
+,{"id":"DEFAYA","position":"vice chair", "name":"Defay, A."}
+,{"id":"ELISOJ","position":"member", "name":"Elison, J."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"LISONK","position":"member", "name":"Lisonbee, K."}
+,{"id":"MACPHM","position":"member", "name":"MacPherson, M."}
+,{"id":"MILLET","position":"member", "name":"Miller, T."}
+,{"id":"MOSSCS","position":"member", "name":"Moss, C."}
+,{"id":"PECKNI","position":"member", "name":"Peck, N."}
+,{"id":"PETERK","position":"member", "name":"Peterson, K."}
+,{"id":"PETERVL","position":"member", "name":"Peterson, V."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"THOMJA","position":"member", "name":"Thompson, J."}
+,{"id":"WALTER","position":"chair", "name":"Walter, N."}
+,{"id":"WELTOD","position":"member", "name":"Welton, D."}
+]
+}
+,{"description":"House Ethics Committee","id":"HSTETH","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTETH","meetings":[
+],
+"members":[
+{"id":"ELISOJ","position":"chair", "name":"Elison, J."}
+,{"id":"HAWKIJ","position":"member", "name":"Hawkins, J."}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"OWENSDO","position":"co-chair", "name":"Owens, D."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+]
+}
+,{"description":"House Government Operations Committee","id":"HSTGOC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTGOC","meetings":[
+],
+"members":[
+{"id":"CUTLEP","position":"member", "name":"Cutler, P."}
+,{"id":"FIEFID","position":"member", "name":"Fiefia, D."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"LOUBEA","position":"member", "name":"Loubet, A."}
+,{"id":"MACPHM","position":"member", "name":"MacPherson, M."}
+,{"id":"MALOYC","position":"member", "name":"Maloy, A. Cory"}
+,{"id":"PETERM","position":"vice chair", "name":"Petersen, M."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"WELTOD","position":"member", "name":"Welton, D."}
+]
+}
+,{"description":"House Health and Human Services Committee","id":"HSTHHS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTHHS","meetings":[
+],
+"members":[
+{"id":"ABBOTN","position":"member", "name":"Abbott, N."}
+,{"id":"ACTONCK","position":"member", "name":"Acton, C.K."}
+,{"id":"BARLOSE","position":"member", "name":"Barlow, S."}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"CHEVRK","position":"member", "name":"Chevrier, K."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ELIASS","position":"member", "name":"Eliason, S."}
+,{"id":"FITISJ","position":"member", "name":"Fitisemanu, J."}
+,{"id":"GRICIS","position":"member", "name":"Gricius, S."}
+,{"id":"HALLK","position":"chair", "name":"Hall, K."}
+,{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"MONSOL","position":"vice chair", "name":"Monson, L."}
+,{"id":"WARDR","position":"member", "name":"Ward, R."}
+]
+}
+,{"description":"House Judiciary Committee","id":"HSTJUD","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTJUD","meetings":[
+],
+"members":[
+{"id":"ABBOTN","position":"member", "name":"Abbott, N."}
+,{"id":"ACTONCK","position":"member", "name":"Acton, C.K."}
+,{"id":"AUXIET","position":"member", "name":"Auxier, T."}
+,{"id":"GRICIS","position":"member", "name":"Gricius, S."}
+,{"id":"HAWKIJ","position":"member", "name":"Hawkins, J."}
+,{"id":"LISONK","position":"chair", "name":"Lisonbee, K."}
+,{"id":"LOUBEA","position":"member", "name":"Loubet, A."}
+,{"id":"MAUGAV","position":"member", "name":"Mauga, V."}
+,{"id":"MILLGR","position":"member", "name":"Miller, G."}
+,{"id":"THOMJA","position":"member", "name":"Thompson, J."}
+]
+}
+,{"description":"House Law Enforcement and Criminal Justice Committee","id":"HSTLAW","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTLAW","meetings":[
+],
+"members":[
+{"id":"BALLAMG","position":"member", "name":"Ballard, M.G."}
+,{"id":"HALLK","position":"member", "name":"Hall, K."}
+,{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"PETERVL","position":"member", "name":"Peterson, V."}
+,{"id":"SHEPHL","position":"member", "name":"Shepherd, L."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"STRONMA","position":"vice chair", "name":"Strong, M.A."}
+,{"id":"WHYTESL","position":"member", "name":"Whyte, S."}
+,{"id":"WILCORD","position":"chair", "name":"Wilcox, R."}
+]
+}
+,{"description":"House Legislative Expenses Oversight Committee","id":"SPEHEO","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEHEO","meetings":[
+],
+"members":[
+{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SCHULM","position":"chair", "name":"Schultz, M."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+]
+}
+,{"description":"House Natural Resources, Agriculture, and Environment Committee","id":"HSTNAE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTNAE","meetings":[
+],
+"members":[
+{"id":"ALBRECR","position":"chair", "name":"Albrecht, C."}
+,{"id":"ARTHUJ","position":"member", "name":"Arthur, J."}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"BROOKW","position":"member", "name":"Brooks, W."}
+,{"id":"CHEWSH","position":"member", "name":"Chew, S."}
+,{"id":"KOFORJ","position":"member", "name":"Koford, J."}
+,{"id":"KOHLEM","position":"member", "name":"Kohler, M."}
+,{"id":"MONSOL","position":"member", "name":"Monson, L."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"SCHULM","position":"member", "name":"Schultz, M."}
+,{"id":"SHALLD","position":"member", "name":"Shallenberger, D."}
+,{"id":"SHIPPRP","position":"vice chair", "name":"Shipp, R.P."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"WATKICF","position":"member", "name":"Watkins, C."}
+]
+}
+,{"description":"House Political Subdivisions Committee","id":"HSTPOL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTPOL","meetings":[
+],
+"members":[
+{"id":"ARTHUJ","position":"member", "name":"Arthur, J."}
+,{"id":"DUNNIJA","position":"chair", "name":"Dunnigan, J."}
+,{"id":"FITISJ","position":"member", "name":"Fitisemanu, J."}
+,{"id":"LHANSEN","position":"member", "name":"Hansen, L."}
+,{"id":"KOHLEM","position":"member", "name":"Kohler, M."}
+,{"id":"MILLET","position":"vice chair", "name":"Miller, T."}
+,{"id":"PETERK","position":"member", "name":"Peterson, K."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+,{"id":"WALTER","position":"member", "name":"Walter, N."}
+,{"id":"WARDR","position":"member", "name":"Ward, R."}
+]
+}
+,{"description":"House Public Utilities and Energy Committee","id":"HSTPUT","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTPUT","meetings":[
+],
+"members":[
+{"id":"ALBRECR","position":"member", "name":"Albrecht, C."}
+,{"id":"BROOKW","position":"member", "name":"Brooks, W."}
+,{"id":"CHEWSH","position":"member", "name":"Chew, S."}
+,{"id":"DOMINR","position":"member", "name":"Dominguez, R."}
+,{"id":"JACKC","position":"chair", "name":"Jack, C."}
+,{"id":"MOSSCS","position":"member", "name":"Moss, C."}
+,{"id":"PECKNI","position":"member", "name":"Peck, N."}
+,{"id":"PETERT","position":"vice chair", "name":"Peterson, T."}
+,{"id":"SHELLT","position":"member", "name":"Shelley, T."}
+,{"id":"SHIPPRP","position":"member", "name":"Shipp, R.P."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"WATKICF","position":"member", "name":"Watkins, C."}
+]
+}
+,{"description":"House Revenue and Taxation Committee","id":"HSTREV","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTREV","meetings":[
+],
+"members":[
+{"id":"BARLOSE","position":"member", "name":"Barlow, S."}
+,{"id":"CHRISKJ","position":"member", "name":"Christofferson, K."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ELIASS","position":"chair", "name":"Eliason, S."}
+,{"id":"ELISOJ","position":"vice chair", "name":"Elison, J."}
+,{"id":"KOFORJ","position":"member", "name":"Koford, J."}
+,{"id":"KYLEJB","position":"member", "name":"Kyle, J."}
+,{"id":"NGUYEH","position":"member", "name":"Nguyen, H."}
+,{"id":"OKERLC","position":"member", "name":"Okerlund, C."}
+,{"id":"SHEPHL","position":"member", "name":"Shepherd, L."}
+,{"id":"STRONMA","position":"member", "name":"Strong, M.A."}
+]
+}
+,{"description":"House Rules Committee","id":"HSTRUL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTRUL","meetings":[
+],
+"members":[
+{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"PETERK","position":"vice chair", "name":"Peterson, K."}
+,{"id":"ROBERC","position":"member", "name":"Roberts, C."}
+,{"id":"TEUSCJ","position":"chair", "name":"Teuscher, J."}
+,{"id":"WILCORD","position":"member", "name":"Wilcox, R."}
+]
+}
+,{"description":"House Transportation Committee","id":"HSTTRA","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTTRA","meetings":[
+],
+"members":[
+{"id":"CHEVRK","position":"member", "name":"Chevrier, K."}
+,{"id":"CHRISKJ","position":"chair", "name":"Christofferson, K."}
+,{"id":"DEFAYA","position":"member", "name":"Defay, A."}
+,{"id":"DOMINR","position":"member", "name":"Dominguez, R."}
+,{"id":"IVORYK","position":"member", "name":"Ivory, K."}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"OKERLC","position":"member", "name":"Okerlund, C."}
+,{"id":"PETERM","position":"member", "name":"Petersen, M."}
+,{"id":"ROBERC","position":"vice chair", "name":"Roberts, C."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SAWYEJ","position":"member", "name":"Sawyer, J."}
+,{"id":"THURSNK","position":"member", "name":"Thurston, N."}
+]
+}
+,{"description":"Judiciary Interim Committee","id":"INTJUD","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTJUD","meetings":[
+{"mtgTime":"2026-11-18T8:30:00.000Z","mtgPlace":"20 House Building","status":"O"}
+],
+"members":[
+{"id":"ABBOTN","position":"member", "name":"Abbott, N."}
+,{"id":"ACTONCK","position":"member", "name":"Acton, C.K."}
+,{"id":"AUXIET","position":"member", "name":"Auxier, T."}
+,{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"GRICIS","position":"member", "name":"Gricius, S."}
+,{"id":"LISONK","position":"chair", "name":"Lisonbee, K."}
+,{"id":"LOUBEA","position":"member", "name":"Loubet, A."}
+,{"id":"MALOYC","position":"member", "name":"Maloy, A. Cory"}
+,{"id":"MAUGAV","position":"member", "name":"Mauga, V."}
+,{"id":"MILLGR","position":"member", "name":"Miller, G."}
+,{"id":"PACEG","position":"member", "name":"Pace, G."}
+,{"id":"THOMJA","position":"member", "name":"Thompson, J."}
+,{"id":"WEILET","position":"chair", "name":"Weiler, T."}
+]
+}
+,{"description":"Law Enforcement and Criminal Justice Interim Committee","id":"INTLAW","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTLAW","meetings":[
+{"mtgTime":"2026-11-18T8:30:00.000Z","mtgPlace":"30 House Building","status":"O"}
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"BALLAMG","position":"member", "name":"Ballard, M.G."}
+,{"id":"BISHORW","position":"member", "name":"Bishop, R."}
+,{"id":"HALLK","position":"member", "name":"Hall, K."}
+,{"id":"HOLLIS","position":"member", "name":"Hollins, S."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"MACPHM","position":"member", "name":"MacPherson, M."}
+,{"id":"MUSSECR","position":"chair", "name":"Musselman, C.R."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"STRONMA","position":"member", "name":"Strong, M.A."}
+,{"id":"WHYTESL","position":"member", "name":"Whyte, S."}
+,{"id":"WILCORD","position":"chair", "name":"Wilcox, R."}
+]
+}
+,{"description":"Legislative Audit Subcommittee","id":"SPEAUD","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEAUD","meetings":[
+{"mtgTime":"2026-11-17T16:00:00.000Z","mtgPlace":"445 State Capitol","status":"C"}
+,{"mtgTime":"2026-12-08T16:00:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ADAMSJS","position":"co-chair", "name":"Adams, J. Stuart"}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SCHULM","position":"co-chair", "name":"Schultz, M."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+]
+}
+,{"description":"Legislative Management Committee","id":"SPEMAN","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEMAN","meetings":[
+{"mtgTime":"2026-12-08T13:00:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ADAMSJS","position":"vice chair", "name":"Adams, J. Stuart"}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"HAYESS","position":"member", "name":"Hayes, S."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SCHULM","position":"chair", "name":"Schultz, M."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Legislative Process Committee","id":"SPELPC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPELPC","meetings":[
+],
+"members":[
+{"id":"DUNNIJA","position":"chair", "name":"Dunnigan, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"chair", "name":"Fillmore, L."}
+,{"id":"MOSSCS","position":"member", "name":"Moss, C."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"STODDA","position":"member", "name":"Stoddard, A."}
+,{"id":"WILCORD","position":"member", "name":"Wilcox, R."}
+]
+}
+,{"description":"Legislative Water Development Commission","id":"SPESWD","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESWD","meetings":[
+{"mtgTime":"2026-11-19T8:00:00.000Z","mtgPlace":"110 Senate Building","status":"O"}
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"ALBRECR","position":"member", "name":"Albrecht, C."}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"CHEWSH","position":"member", "name":"Chew, S."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"KOHLEM","position":"member", "name":"Kohler, M."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"NGUYEH","position":"member", "name":"Nguyen, H."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"PETERT","position":"house chair", "name":"Peterson, T."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"STRATKJ","position":"senate chair", "name":"Stratton, K."}
+]
+}
+,{"description":"Medical Cannabis Governance Structure Working Group","id":"SPEMCG","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEMCG","meetings":[
+],
+"members":[
+{"id":"BROOKW","position":"chair", "name":"Brooks, W."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"VICKEEJ","position":"chair", "name":"Vickers, E."}
+,{"id":"WARDR","position":"member", "name":"Ward, R."}
+]
+}
+,{"description":"Native American Legislative Liaison Committee","id":"SPENAL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPENAL","meetings":[
+{"mtgTime":"2026-11-17T12:00:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FITISJ","position":"member", "name":"Fitisemanu, J."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"MONSOL","position":"member", "name":"Monson, L."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SHELLT","position":"member", "name":"Shelley, T."}
+,{"id":"SHIPPRP","position":"member", "name":"Shipp, R.P."}
+,{"id":"WATKICF","position":"chair", "name":"Watkins, C."}
+,{"id":"WINTER","position":"chair", "name":"Winterton, R."}
+]
+}
+,{"description":"Natural Resources, Agriculture, and Environment Interim Committee","id":"INTNAE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTNAE","meetings":[
+{"mtgTime":"2026-11-18T8:30:00.000Z","mtgPlace":"110 Senate Building","status":"O"}
+],
+"members":[
+{"id":"ALBRECR","position":"chair", "name":"Albrecht, C."}
+,{"id":"ARTHUJ","position":"member", "name":"Arthur, J."}
+,{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"BROOKW","position":"member", "name":"Brooks, W."}
+,{"id":"CHEWSH","position":"member", "name":"Chew, S."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"KOHLEM","position":"member", "name":"Kohler, M."}
+,{"id":"MONSOL","position":"member", "name":"Monson, L."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"PETERT","position":"member", "name":"Peterson, T."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"SCHULM","position":"member", "name":"Schultz, M."}
+,{"id":"SHIPPRP","position":"member", "name":"Shipp, R.P."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"STRATKJ","position":"chair", "name":"Stratton, K."}
+,{"id":"WALTER","position":"member", "name":"Walter, N."}
+,{"id":"WATKICF","position":"member", "name":"Watkins, C."}
+]
+}
+,{"description":"Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee","id":"APPNAE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPNAE","meetings":[
+],
+"members":[
+{"id":"ALBRECR","position":"member", "name":"Albrecht, C."}
+,{"id":"ARTHUJ","position":"member", "name":"Arthur, J."}
+,{"id":"BARLOSE","position":"house chair", "name":"Barlow, S."}
+,{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"CHEWSH","position":"vice chair", "name":"Chew, S."}
+,{"id":"HINKIDP","position":"senate chair", "name":"Hinkins, D."}
+,{"id":"KOHLEM","position":"member", "name":"Kohler, M."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"MONSOL","position":"member", "name":"Monson, L."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"NGUYEH","position":"member", "name":"Nguyen, H."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"SHELLT","position":"member", "name":"Shelley, T."}
+,{"id":"SHIPPRP","position":"member", "name":"Shipp, R.P."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"Olympic and Paralympic Winter Games Coordination Committee","id":"SPEOLY","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEOLY","meetings":[
+{"mtgTime":"2026-11-17T16:00:00.000Z","mtgPlace":"110 Senate Building","status":"O"}
+],
+"members":[
+{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"HALLK","position":"chair", "name":"Hall, K."}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"MCKELMK","position":"chair", "name":"McKell, M."}
+,{"id":"OKERLC","position":"member", "name":"Okerlund, C."}
+]
+}
+,{"description":"Political Subdivisions Interim Committee","id":"INTPOL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTPOL","meetings":[
+{"mtgTime":"2026-11-18T13:15:00.000Z","mtgPlace":"220 Senate Building","status":"O"}
+],
+"members":[
+{"id":"ARTHUJ","position":"member", "name":"Arthur, J."}
+,{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"DUNNIJA","position":"chair", "name":"Dunnigan, J."}
+,{"id":"LHANSEN","position":"member", "name":"Hansen, L."}
+,{"id":"HARPEWA","position":"member", "name":"Harper, W."}
+,{"id":"IPSONDL","position":"chair", "name":"Ipson, D."}
+,{"id":"KOFORJ","position":"member", "name":"Koford, J."}
+,{"id":"KOHLEM","position":"member", "name":"Kohler, M."}
+,{"id":"MAUGAV","position":"member", "name":"Mauga, V."}
+,{"id":"MILLET","position":"member", "name":"Miller, T."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PETERVL","position":"member", "name":"Peterson, V."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Public Education Appropriations Subcommittee","id":"APPPED","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPPED","meetings":[
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"AUXIET","position":"member", "name":"Auxier, T."}
+,{"id":"BALDEH","position":"senate chair", "name":"Balderree, H."}
+,{"id":"BISHORW","position":"member", "name":"Bishop, R."}
+,{"id":"BROOKW","position":"member", "name":"Brooks, W."}
+,{"id":"ELIASS","position":"member", "name":"Eliason, S."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"senate vice chair", "name":"Fillmore, L."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"MACPHM","position":"house vice chair", "name":"MacPherson, M."}
+,{"id":"MILLET","position":"member", "name":"Miller, T."}
+,{"id":"MILLNA","position":"member", "name":"Millner, A."}
+,{"id":"MOSSCS","position":"member", "name":"Moss, C."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"THOMJA","position":"member", "name":"Thompson, J."}
+,{"id":"WHYTESL","position":"house chair", "name":"Whyte, S."}
+]
+}
+,{"description":"Public Utilities, Energy, and Technology Interim Committee","id":"INTPUT","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTPUT","meetings":[
+{"mtgTime":"2026-11-18T13:15:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ALBRECR","position":"member", "name":"Albrecht, C."}
+,{"id":"BROOKW","position":"member", "name":"Brooks, W."}
+,{"id":"CHEWSH","position":"member", "name":"Chew, S."}
+,{"id":"CHRISKJ","position":"member", "name":"Christofferson, K."}
+,{"id":"DOMINR","position":"member", "name":"Dominguez, R."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"JACKC","position":"chair", "name":"Jack, C."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MILLNA","position":"member", "name":"Millner, A."}
+,{"id":"OWENSDO","position":"member", "name":"Owens, D."}
+,{"id":"OWENSD","position":"chair", "name":"Owens, D.R."}
+,{"id":"PECKNI","position":"member", "name":"Peck, N."}
+,{"id":"PETERT","position":"member", "name":"Peterson, T."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"SHELLT","position":"member", "name":"Shelley, T."}
+,{"id":"SHIPPRP","position":"member", "name":"Shipp, R.P."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+,{"id":"WATKICF","position":"member", "name":"Watkins, C."}
+]
+}
+,{"description":"Retirement and Independent Entities Interim Committee","id":"INTRIE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTRIE","meetings":[
+{"mtgTime":"2026-11-17T15:00:00.000Z","mtgPlace":"450 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ACTONCK","position":"house chair", "name":"Acton, C.K."}
+,{"id":"CHRISKJ","position":"member", "name":"Christofferson, K."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ELISOJ","position":"member", "name":"Elison, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"HARPEWA","position":"senate chair", "name":"Harper, W."}
+,{"id":"MILLGR","position":"member", "name":"Miller, G."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SHIPPRP","position":"member", "name":"Shipp, R.P."}
+,{"id":"THURSNK","position":"member", "name":"Thurston, N."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+]
+}
+,{"description":"Revenue and Taxation Interim Committee","id":"INTREV","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTREV","meetings":[
+{"mtgTime":"2026-11-18T8:30:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"BARLOSE","position":"member", "name":"Barlow, S."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ELIASS","position":"chair", "name":"Eliason, S."}
+,{"id":"ELISOJ","position":"member", "name":"Elison, J."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"KOFORJ","position":"member", "name":"Koford, J."}
+,{"id":"KYLEJB","position":"member", "name":"Kyle, J."}
+,{"id":"MCCAYD","position":"chair", "name":"McCay, D."}
+,{"id":"MILLET","position":"member", "name":"Miller, T."}
+,{"id":"NGUYEH","position":"member", "name":"Nguyen, H."}
+,{"id":"OKERLC","position":"member", "name":"Okerlund, C."}
+,{"id":"PECKNI","position":"member", "name":"Peck, N."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SHEPHL","position":"member", "name":"Shepherd, L."}
+,{"id":"WARDR","position":"member", "name":"Ward, R."}
+,{"id":"WELTOD","position":"member", "name":"Welton, D."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Revitalization Zone Committee","id":"SPERZC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPERZC","meetings":[
+],
+"members":[
+{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"HAWKIJ","position":"member", "name":"Hawkins, J."}
+,{"id":"MCCAYD","position":"chair", "name":"McCay, D."}
+]
+}
+,{"description":"Senate Business and Labor Committee","id":"SSTBUS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTBUS","meetings":[
+],
+"members":[
+{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"VICKEEJ","position":"chair", "name":"Vickers, E."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+]
+}
+,{"description":"Senate Business and Labor Confirmation Committee","id":"SPEBUS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEBUS","meetings":[
+],
+"members":[
+{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"VICKEEJ","position":"chair", "name":"Vickers, E."}
+]
+}
+,{"description":"Senate Economic Development and Workforce Services Committee","id":"SSTEDW","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTEDW","meetings":[
+{"mtgTime":"2525-02-23T8:00:00.000Z","mtgPlace":"215 Senate Building","status":"C"}
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MILLNA","position":"chair", "name":"Millner, A."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+]
+}
+,{"description":"Senate Economic Development and Workforce Services Confirmation Committee","id":"SPEEDW","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEEDW","meetings":[
+{"mtgTime":"2026-11-16T12:30:00.000Z","mtgPlace":"220 Senate Building","status":"O"}
+],
+"members":[
+{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MILLNA","position":"chair", "name":"Millner, A."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+]
+}
+,{"description":"Senate Education Committee","id":"SSTEDU","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTEDU","meetings":[
+],
+"members":[
+{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"JOHNSJD","position":"chair", "name":"Johnson, J."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Senate Education Confirmation Committee","id":"SPEEDU","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEEDU","meetings":[
+{"mtgTime":"2026-11-10T14:30:00.000Z","mtgPlace":"450 State Capitol","status":"O"}
+],
+"members":[
+{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"JOHNSJD","position":"member", "name":"Johnson, J."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MILLNA","position":"chair", "name":"Millner, A."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Senate Ethics Committee","id":"SSTETH","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTETH","meetings":[
+],
+"members":[
+{"id":"ESCAML","position":"vice chair", "name":"Escamilla, L."}
+,{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MILLNA","position":"chair", "name":"Millner, A."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+]
+}
+,{"description":"Senate Government Operations and Political Subdivisions Committee","id":"SSTGOP","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTGOP","meetings":[
+],
+"members":[
+{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"VICKEEJ","position":"member", "name":"Vickers, E."}
+,{"id":"WINTER","position":"chair", "name":"Winterton, R."}
+]
+}
+,{"description":"Senate Government Operations Confirmation Committee","id":"SPEGOV","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEGOV","meetings":[
+],
+"members":[
+{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+,{"id":"VICKEEJ","position":"member", "name":"Vickers, E."}
+,{"id":"WINTER","position":"chair", "name":"Winterton, R."}
+]
+}
+,{"description":"Senate Health and Human Services Committee","id":"SSTHHS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTHHS","meetings":[
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"GROVEK","position":"chair", "name":"Grover, K."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+]
+}
+,{"description":"Senate Health and Human Services Confirmation Committee","id":"SPEHHS","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEHHS","meetings":[
+],
+"members":[
+{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"GROVEK","position":"chair", "name":"Grover, K."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+]
+}
+,{"description":"Senate Judicial Confirmation Committee","id":"SPESJC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESJC","meetings":[
+{"mtgTime":"2026-11-10T9:00:00.000Z","mtgPlace":"120 Senate Building","status":"R"}
+,{"mtgTime":"2026-11-13T14:00:00.000Z","mtgPlace":"120 Senate Building","status":"O"}
+],
+"members":[
+{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"WEILET","position":"chair", "name":"Weiler, T."}
+]
+}
+,{"description":"Senate Judiciary Confirmation Committee","id":"SPEJUD","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEJUD","meetings":[
+],
+"members":[
+{"id":"BRAMMB","position":"chair", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+]
+}
+,{"description":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee","id":"SSTJLC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTJLC","meetings":[
+],
+"members":[
+{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+,{"id":"WEILET","position":"chair", "name":"Weiler, T."}
+]
+}
+,{"description":"Senate Law Enforcement and Criminal Justice Confirmation Committee","id":"SPELEC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPELEC","meetings":[
+],
+"members":[
+{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"IPSONDL","position":"chair", "name":"Ipson, D."}
+,{"id":"OWENSD","position":"member", "name":"Owens, D.R."}
+,{"id":"PITCHS","position":"member", "name":"Pitcher, S."}
+]
+}
+,{"description":"Senate Legislative Expenses Oversight Committee","id":"SPESEO","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESEO","meetings":[
+],
+"members":[
+{"id":"ADAMSJS","position":"chair", "name":"Adams, J. Stuart"}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+]
+}
+,{"description":"Senate Natural Resources, Agriculture, and Environment Committee","id":"SSTNAE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTNAE","meetings":[
+],
+"members":[
+{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"OWENSD","position":"chair", "name":"Owens, D.R."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"STEVEJW","position":"member", "name":"Stevenson, J."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+]
+}
+,{"description":"Senate Natural Resources, Agriculture, and Environment Confirmation Committee","id":"SPENAT","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPENAT","meetings":[
+],
+"members":[
+{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"HINKIDP","position":"member", "name":"Hinkins, D."}
+,{"id":"OWENSD","position":"chair", "name":"Owens, D.R."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+]
+}
+,{"description":"Senate Political Subdivisions Confirmation Committee","id":"SPEPOL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEPOL","meetings":[
+],
+"members":[
+{"id":"BLOUIN","position":"member", "name":"Blouin, N."}
+,{"id":"MUSSECR","position":"member", "name":"Musselman, C.R."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"SANDASD","position":"member", "name":"Sandall, S."}
+,{"id":"VICKEEJ","position":"member", "name":"Vickers, E."}
+,{"id":"WINTER","position":"chair", "name":"Winterton, R."}
+]
+}
+,{"description":"Senate Retirement and Independent Entities Confirmation Committee","id":"SPERET","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPERET","meetings":[
+{"mtgTime":"2026-11-17T14:45:00.000Z","mtgPlace":"450 State Capitol","status":"O"}
+],
+"members":[
+{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"HARPEWA","position":"chair", "name":"Harper, W."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+]
+}
+,{"description":"Senate Revenue and Taxation Committee","id":"SSTREV","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTREV","meetings":[
+],
+"members":[
+{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"HARPEWA","position":"member", "name":"Harper, W."}
+,{"id":"MCCAYD","position":"chair", "name":"McCay, D."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Senate Revenue and Taxation Confirmation Committee","id":"SPEREV","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEREV","meetings":[
+],
+"members":[
+{"id":"BRAMMB","position":"member", "name":"Brammer, B."}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"member", "name":"Fillmore, L."}
+,{"id":"MCCAYD","position":"chair", "name":"McCay, D."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Senate Rules Committee","id":"SSTRUL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTRUL","meetings":[
+],
+"members":[
+{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FILLML","position":"chair", "name":"Fillmore, L."}
+,{"id":"GROVEK","position":"vice chair", "name":"Grover, K."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"Senate Transportation, Public Utilities, Energy, and Technology Committee","id":"SSTTPT","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTTPT","meetings":[
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"HARPEWA","position":"chair", "name":"Harper, W."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MILLNA","position":"member", "name":"Millner, A."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee","id":"SPETRA","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPETRA","meetings":[
+],
+"members":[
+{"id":"HARPEWA","position":"chair", "name":"Harper, W."}
+,{"id":"IPSONDL","position":"member", "name":"Ipson, D."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MILLNA","position":"member", "name":"Millner, A."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"Social Services Appropriations Subcommittee","id":"APPSOC","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPSOC","meetings":[
+],
+"members":[
+{"id":"ADAMSJS","position":"member", "name":"Adams, J. Stuart"}
+,{"id":"BALDEH","position":"member", "name":"Balderree, H."}
+,{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"CHEVRK","position":"member", "name":"Chevrier, K."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"FIEFID","position":"vice chair", "name":"Fiefia, D."}
+,{"id":"FITISJ","position":"member", "name":"Fitisemanu, J."}
+,{"id":"GRICIS","position":"member", "name":"Gricius, S."}
+,{"id":"JACKC","position":"member", "name":"Jack, C."}
+,{"id":"PACEG","position":"member", "name":"Pace, G."}
+,{"id":"PECKNI","position":"member", "name":"Peck, N."}
+,{"id":"PLUMBJ","position":"member", "name":"Plumb, J."}
+,{"id":"STRATKJ","position":"senate chair", "name":"Stratton, K."}
+,{"id":"WARDR","position":"house chair", "name":"Ward, R."}
+,{"id":"WEILET","position":"member", "name":"Weiler, T."}
+]
+}
+,{"description":"Subcommittee on Oversight","id":"SUBOVE","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SUBOVE","meetings":[
+],
+"members":[
+{"id":"ADAMSJS","position":"chair", "name":"Adams, J. Stuart"}
+,{"id":"CULLIKA","position":"member", "name":"Cullimore, K. A."}
+,{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SCHULM","position":"chair", "name":"Schultz, M."}
+,{"id":"SNIDEC","position":"member", "name":"Snider, C."}
+]
+}
+,{"description":"Transportation and Infrastructure Appropriations Subcommittee","id":"APPTIF","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=APPTIF","meetings":[
+],
+"members":[
+{"id":"BOLINB","position":"member", "name":"Bolinder, B."}
+,{"id":"CHRISKJ","position":"member", "name":"Christofferson, K."}
+,{"id":"ELISOJ","position":"member", "name":"Elison, J."}
+,{"id":"HARPEWA","position":"member", "name":"Harper, W."}
+,{"id":"IPSONDL","position":"senate chair", "name":"Ipson, D."}
+,{"id":"IVORYK","position":"member", "name":"Ivory, K."}
+,{"id":"KWANK","position":"member", "name":"Kwan, K."}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"MCCAYD","position":"member", "name":"McCay, D."}
+,{"id":"OWENSDO","position":"vice chair", "name":"Owens, D."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"ROBERC","position":"member", "name":"Roberts, C."}
+,{"id":"SAWYEJ","position":"member", "name":"Sawyer, J."}
+,{"id":"SHALLD","position":"member", "name":"Shallenberger, D."}
+,{"id":"STRATKJ","position":"member", "name":"Stratton, K."}
+,{"id":"WELTOD","position":"house chair", "name":"Welton, D."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"Transportation Interim Committee","id":"INTTRA","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=INTTRA","meetings":[
+{"mtgTime":"2026-11-18T8:30:00.000Z","mtgPlace":"210 Senate Building","status":"O"}
+],
+"members":[
+{"id":"BUSSEM","position":"member", "name":"Buss, E."}
+,{"id":"CHEVRK","position":"member", "name":"Chevrier, K."}
+,{"id":"CHRISKJ","position":"chair", "name":"Christofferson, K."}
+,{"id":"DEFAYA","position":"member", "name":"Defay, A."}
+,{"id":"DOMINR","position":"member", "name":"Dominguez, R."}
+,{"id":"GROVEK","position":"member", "name":"Grover, K."}
+,{"id":"HARPEWA","position":"chair", "name":"Harper, W."}
+,{"id":"IVORYK","position":"member", "name":"Ivory, K."}
+,{"id":"MATTHA","position":"member", "name":"Matthews, A."}
+,{"id":"PETERM","position":"member", "name":"Petersen, M."}
+,{"id":"PETERK","position":"member", "name":"Peterson, K."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"RIEBEK","position":"member", "name":"Riebe, K."}
+,{"id":"ROBERC","position":"member", "name":"Roberts, C."}
+,{"id":"ROMERAY","position":"member", "name":"Romero, A."}
+,{"id":"SAWYEJ","position":"member", "name":"Sawyer, J."}
+,{"id":"THURSNK","position":"member", "name":"Thurston, N."}
+,{"id":"WINTER","position":"member", "name":"Winterton, R."}
+]
+}
+,{"description":"Utah Behavioral Health Legislative Policy Committee","id":"TSKBHL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=TSKBHL","meetings":[
+],
+"members":[
+{"id":"DAILEJ","position":"member", "name":"Dailey-Provost, J."}
+,{"id":"ELIASS","position":"chair", "name":"Eliason, S."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"VICKEEJ","position":"chair", "name":"Vickers, E."}
+,{"id":"WILSOCH","position":"member", "name":"Wilson, C."}
+]
+}
+,{"description":"Utah Commission on Uniform State Laws","id":"SPEUSL","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEUSL","meetings":[
+],
+"members":[
+{"id":"MCKELMK","position":"member", "name":"McKell, M."}
+,{"id":"TEUSCJ","position":"member", "name":"Teuscher, J."}
+]
+}
+,{"description":"Veterans and Military Affairs Commission","id":"SPEVMA","link":"https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEVMA","meetings":[
+{"mtgTime":"2026-11-20T13:00:00.000Z","mtgPlace":"445 State Capitol","status":"O"}
+],
+"members":[
+{"id":"ARTHUJ","position":"member", "name":"Arthur, J."}
+,{"id":"ESCAML","position":"member", "name":"Escamilla, L."}
+,{"id":"PETERVL","position":"chair", "name":"Peterson, V."}
+,{"id":"PIERUC","position":"member", "name":"Pierucci, C."}
+,{"id":"WEILET","position":"chair", "name":"Weiler, T."}
+]
+}
+]}
